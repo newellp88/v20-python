@@ -813,6 +813,7 @@ class EntitySpec(object):
 
     def candles(
         self,
+        accountID,
         instrument,
         **kwargs
     ):
